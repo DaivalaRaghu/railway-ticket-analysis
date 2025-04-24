@@ -1,4 +1,5 @@
 🚆 Railway Ticket Data Analysis using Python
+
 📌 Description:
 This project presents an exploratory and statistical analysis of railway ticket sales data using Python. It highlights techniques in data preprocessing, visualization, and statistical hypothesis testing. The goal is to uncover patterns, detect anomalies, and derive valuable insights from real-world data.
 
